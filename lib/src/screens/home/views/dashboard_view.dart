@@ -53,7 +53,7 @@ class _DashboardViewState extends State<DashboardView>
                           );
                         },
                       ),
-                      hintText: 'Cari produk segar di Freshly'),
+                      hintText: 'Cari produk segar...'),
                 ),
               ).p(6),
               // IconButton(
